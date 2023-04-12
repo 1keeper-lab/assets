@@ -1,38 +1,34 @@
-{
-    "name": "1Keeper",
-    "logoURI": "https://assets.1keeper.com/logo.png",
-    "timestamp": "2023-04-12T12:00:00.689Z",
-    "version":"1.0.0",
-    "chains": [
-        {
-            "sorts":0,
-            "chainId": "1",
-            "name": "Ethereum",
-            "symbol": "ETH",
-            "decimal": 18,
-            "explore": "http://etherscan.com/",
-            "muticall": "",
-            "type": "evm",
-            "icon": "https://assets.1keeper.com/blockchains/ethereum/logo.svg",
-            "gas":"http://8.219.167.234/gas/ethereum",
-            "rpcs":["https://assets.1keeper.com/blockchains/ethereum/rpcs.json"],
-            "tokens":["https://assets.1keeper.com/blockchains/ethereum/tokens.json"],
-            "nfts":["https://assets.1keeper.com/blockchains/ethereum/nfts.json"]
-        },
-        {
-            "sorts":1,
-            "chainId": "56",
-            "name": "BNBChain",
-            "symbol": "BNB",
-            "decimal": 18,
-            "explore": "http://bscscan.com/",
-            "muticall": "",
-            "type": "evm",
-            "icon": "https://assets.1keeper.com/blockchains/bnbchain/logo.svg",
-            "gas":"http://8.219.167.234/gas/bnbnhain",
-            "rpcs":["https://assets.1keeper.com/blockchains/bnbchain/rpcs.json"],
-            "tokens":["https://assets.1keeper.com/blockchains/bnbchain/tokens.json"],
-            "nfts":["https://assets.1keeper.com/blockchains/bnbchain/nfts.json"]
-        }
-    ]
-}
+[
+    {
+        "sorts":0,
+        "chainId": "1",
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "decimal": 18,
+        "explore": "http://etherscan.com/",
+        "muticall": "",
+        "type": "evm",
+        "icon": "https://assets.1keeper.com/blockchains/ethereum/logo.svg",
+        "gas":"http://8.219.167.234/gas/ethereum",
+        "ext":"",
+        "rpcs":["https://assets.1keeper.com/blockchains/ethereum/rpcs.json?v=1"],
+        "tokens":["https://assets.1keeper.com/blockchains/ethereum/tokens.json?v=1"],
+        "nfts":["https://assets.1keeper.com/blockchains/ethereum/nfts.json?v=1"]
+    },
+    {
+        "sorts":1,
+        "chainId": "56",
+        "name": "BNBChain",
+        "symbol": "BNB",
+        "decimal": 18,
+        "explore": "http://bscscan.com/",
+        "muticall": "",
+        "type": "evm",
+        "icon": "https://assets.1keeper.com/blockchains/bnbchain/logo.svg",
+        "gas":"http://8.219.167.234/gas/bnbchain",
+        "ext":"",
+        "rpcs":["https://assets.1keeper.com/blockchains/bnbchain/rpcs.json?v=1"],
+        "tokens":["https://assets.1keeper.com/blockchains/bnbchain/tokens.json?v=1"],
+        "nfts":["https://assets.1keeper.com/blockchains/bnbchain/nfts.json?v=1"]
+    }
+]

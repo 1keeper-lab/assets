@@ -1,9 +1,17 @@
-{
-    "name": "ethereum#rpc#1",
-    "logoURI": "https://assets/1keeper.com/logo.svg",
-    "timestamp": "2023-04-12T12:00:00.689Z",
-    "version":"1.0.0",
-    "datas": [
-        
-    ]
-}
+[
+    {
+        "chainId":"1",
+        "name":"Flashbots",
+        "url":"https://rpc.flashbots.net"
+    },
+    {
+        "chainId":"1",
+        "name":"1Rpc",
+        "url":"https://1rpc.io/eth"
+    },
+    {
+        "chainId":"1",
+        "name":"PubNode",
+        "url":"https://ethereum.publicnode.com"
+    }
+]
