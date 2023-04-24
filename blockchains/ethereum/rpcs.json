@@ -2,16 +2,19 @@
     {
         "chainId":"1",
         "name":"Flashbots",
-        "url":"https://rpc.flashbots.net"
+        "url":"https://rpc.flashbots.net",
+        "selected":1
     },
     {
         "chainId":"1",
         "name":"1Rpc",
-        "url":"https://1rpc.io/eth"
+        "url":"https://1rpc.io/eth",
+        "selected":0,
     },
     {
         "chainId":"1",
         "name":"PubNode",
-        "url":"https://ethereum.publicnode.com"
+        "url":"https://ethereum.publicnode.com",
+        "selected":0
     }
 ]
