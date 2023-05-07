@@ -1,3 +1,20 @@
 [
-    
+    {
+        "chainId":"56",
+        "name":"Ninicoin",
+        "url":"https://bsc-dataseed3.ninicoin.io",
+        "selected":1
+    },
+    {
+        "chainId":"56",
+        "name":"Binance",
+        "url":"https://bsc-dataseed1.binance.org",
+        "selected":0
+    },
+    {
+        "chainId":"56",
+        "name":"PubNode",
+        "url":"https://bsc.publicnode.com",
+        "selected":0
+    }
 ]

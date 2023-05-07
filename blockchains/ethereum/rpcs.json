@@ -9,7 +9,7 @@
         "chainId":"1",
         "name":"1Rpc",
         "url":"https://1rpc.io/eth",
-        "selected":0,
+        "selected":0
     },
     {
         "chainId":"1",

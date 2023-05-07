@@ -1,3 +1,11 @@
 [
-    
+    {
+        "chainId": 56,
+        "type": "BEP721",
+        "address": "0x9CEE09946A8113a503C1264e328c0e3aEe4c8bCf",
+        "name": "Space ID",
+        "symbol": "ID",
+        "decimals": 1,
+        "logoURI": "https://assets.1keeper.com/blockchains/bnbchain/nft/0x9cee09946a8113a503c1264e328c0e3aee4c8bcf/logo.png"
+    }
 ]
