@@ -1,3 +1,20 @@
 [
-    
+    {
+        "chainId":"100",
+        "name":"Gnosischain",
+        "url":"https://rpc.gnosischain.com",
+        "selected":1
+    },
+    {
+        "chainId":"100",
+        "name":"Onfinality",
+        "url":"https://gnosis.api.onfinality.io/public",
+        "selected":0
+    },
+    {
+        "chainId":"100",
+        "name":"Ankr",
+        "url":"https://rpc.ankr.com/gnosis",
+        "selected":0
+    }
 ]

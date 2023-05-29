@@ -1,3 +1,26 @@
 [
-    
+    {
+        "chainId":"42161",
+        "name":"Omniatech",
+        "url":"https://endpoints.omniatech.io/v1/arbitrum/one/public",
+        "selected":1
+    },
+    {
+        "chainId":"42161",
+        "name":"1Rpc",
+        "url":"https://1rpc.io/arb",
+        "selected":0
+    },
+    {
+        "chainId":"42161",
+        "name":"Unifra",
+        "url":"https://arb-mainnet-public.unifra.io",
+        "selected":0
+    },
+    {
+        "chainId":"42161",
+        "name":"Blast",
+        "url":"https://arbitrum-one.public.blastapi.io",
+        "selected":0
+    }
 ]

@@ -1,3 +1,20 @@
 [
-    
+    {
+        "chainId":"25",
+        "name":"Cronos",
+        "url":"https://cronos-evm.publicnode.com",
+        "selected":1
+    },
+    {
+        "chainId":"25",
+        "name":"Blockpi",
+        "url":"https://cronos.blockpi.network/v1/rpc/public",
+        "selected":0
+    },
+    {
+        "chainId":"25",
+        "name":"Croswap",
+        "url":"https://node.croswap.com/rpc",
+        "selected":0
+    }
 ]

@@ -1,9 +1,15 @@
 [
     {
         "chainId":"1",
+        "name":"PubNode",
+        "url":"https://ethereum.publicnode.com",
+        "selected":1
+    },
+    {
+        "chainId":"1",
         "name":"Flashbots",
         "url":"https://rpc.flashbots.net",
-        "selected":1
+        "selected":0
     },
     {
         "chainId":"1",
@@ -13,8 +19,14 @@
     },
     {
         "chainId":"1",
-        "name":"PubNode",
-        "url":"https://ethereum.publicnode.com",
+        "name":"llama",
+        "url":"https://eth.llamarpc.com",
+        "selected":0
+    },
+    {
+        "chainId":"1",
+        "name":"meow",
+        "url":"https://eth.meowrpc.com",
         "selected":0
     }
 ]
