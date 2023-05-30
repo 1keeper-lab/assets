@@ -1,32 +1,26 @@
 [
     {
         "chainId":"56",
-        "name":"PubNode",
-        "url":"https://bsc.publicnode.com",
+        "name":"1Rpc",
+        "url":"https://1rpc.io/bnb",
         "selected":1
     },
     {
         "chainId":"56",
-        "name":"Dataseed",
-        "url":"https://bsc-dataseed1.binance.org",
+        "name":"Ninicoin",
+        "url":"https://bsc-dataseed3.ninicoin.io",
         "selected":0
     },
     {
         "chainId":"56",
-        "name":"1Rpc",
-        "url":"https://1rpc.io/bnb",
+        "name":"Defibit",
+        "url":"https://bsc-dataseed2.defibit.io",
         "selected":0
     },
     {
         "chainId":"56",
-        "name":"meow",
-        "url":"https://bsc.meowrpc.com",
-        "selected":0
-    },
-    {
-        "chainId":"56",
-        "name":"48",
-        "url":"https://rpc-bsc.48.club",
+        "name":"Binance",
+        "url":"https://bsc-dataseed4.binance.org",
         "selected":0
     }
 ]
