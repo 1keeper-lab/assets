@@ -12,6 +12,9 @@
         "nft": "ERC721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/ethereum/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":1,
         "rpcs":["https://assets.1keeper.com/blockchains/ethereum/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/ethereum/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/ethereum/nfts.json?v=1"]
@@ -29,6 +32,9 @@
         "nft": "BEP721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/bnbchain/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/bnbchain/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/bnbchain/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/bnbchain/nfts.json?v=1"]
@@ -46,6 +52,9 @@
         "nft": "ARC721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/arbitrum/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/arbitrum/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/arbitrum/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/arbitrum/nfts.json?v=1"]
@@ -63,6 +72,9 @@
         "nft": "ORC721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/optimism/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/optimism/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/optimism/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/optimism/nfts.json?v=1"]
@@ -80,6 +92,9 @@
         "nft": "PRC721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/polygon/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/polygon/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/polygon/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/polygon/nfts.json?v=1"]
@@ -97,6 +112,9 @@
         "nft": "FRC721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/fantom/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/fantom/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/fantom/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/fantom/nfts.json?v=1"]
@@ -114,6 +132,9 @@
         "nft": "AVA721",
         "path":"m/44'/60'/0'/0",
         "icon": "https://assets.1keeper.com/blockchains/avalanche/logo.png",
+        "gas":"",
+        "ext":"",
+        "def":0,
         "rpcs":["https://assets.1keeper.com/blockchains/avalanche/rpcs.json?v=1"],
         "tokens":["https://assets.1keeper.com/blockchains/avalanche/tokens.json?v=1"],
         "nfts":["https://assets.1keeper.com/blockchains/avalanche/nfts.json?v=1"]
